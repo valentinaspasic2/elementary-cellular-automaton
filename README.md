@@ -1,5 +1,5 @@
 # Elementary Cellular Automaton
-A C program that simulates how a row of cells evolves over generations using user-selected rules.
+A C program that simulates how a row of cells evolves over generations using user selected rules.
 
 ## How it works
 
