@@ -1,2 +1,2 @@
-# elementary-cellular-automaton
-A C program that simulates an elementary cellular automaton using user selected rules and displays how the cells evolve over generations.
+# Elementary Cellular Automaton
+A C program that simulates how a row of cells evolves over generations using user-selected rules. Uses arrays, functions, bitwise operations, and loops to calculate and display each generation.
